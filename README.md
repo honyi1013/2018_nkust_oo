@@ -5,7 +5,7 @@
 系統分析與設計
 # Project:
 人工智慧面試系統<br>  Artificial Intelligence Interview System
-# Member:
+# Members:
 0524020 洪湘嬅 
 
 0524046 鄭鴻翊 
