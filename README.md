@@ -37,4 +37,4 @@ Email：0524050@nkust.edu.tw
      
 # 使用案例圖
 ## 使用案例圖與參與者
-![image](https://github.com/honyi1013/2018_nkust_oo/blob/master/doc/系統案例與參與者圖.png)
+![image](https://github.com/honyi1013/2018_nkust_oo/blob/master/doc/系統案例與參與者圖.png =360*360)
