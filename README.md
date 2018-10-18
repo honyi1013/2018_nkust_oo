@@ -6,7 +6,8 @@
 # Project:
 人工智慧面試系統<br>  Artificial Intelligence Interview System
 # Members:
-第20組 <br>
+第20組
+
 0524020 洪湘嬅 
 
 0524046 鄭鴻翊 
