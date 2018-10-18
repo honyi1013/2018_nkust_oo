@@ -37,4 +37,4 @@ Email：0524050@nkust.edu.tw
      
 # 使用案例圖
 ## 使用案例圖與參與者
-<img src="doc/系統案例與參與者圖.png" width="759">
+<img src="doc/系統案例與參與者圖.png" width="550">
