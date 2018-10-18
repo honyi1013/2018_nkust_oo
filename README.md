@@ -8,17 +8,17 @@
 # Members:
 第20組
 
-<a href="https://github.com/0524020">0524020 洪湘嬅<a>
+0524020<a href="https://github.com/0524020"> 洪湘嬅<a>
 
 Email:0524020@nkust.edu.tw
 
 
-<a href="https://github.com/honyi1013"><0524046 鄭鴻翊</a> 
+0524046<a href="https://github.com/honyi1013"> 鄭鴻翊</a> 
 
 Email:0524046@nkust.edu.tw
 
 
-<a href="https://github.com/Awen0524050">0524050 王亭文</a>
+0524050<a href="https://github.com/Awen0524050"> 王亭文</a>
 
 Email:0524050@nkust.edu.tw
 
