@@ -10,17 +10,17 @@
 
 0524020<a href="https://github.com/0524020"> 洪湘嬅<a>
 
-Email:0524020@nkust.edu.tw
+Email：0524020@nkust.edu.tw
 
 
 0524046<a href="https://github.com/honyi1013"> 鄭鴻翊</a> 
 
-Email:0524046@nkust.edu.tw
+Email：0524046@nkust.edu.tw
 
 
 0524050<a href="https://github.com/Awen0524050"> 王亭文</a>
 
-Email:0524050@nkust.edu.tw
+Email：0524050@nkust.edu.tw
 
 
 # Introduction
