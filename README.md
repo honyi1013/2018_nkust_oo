@@ -8,6 +8,8 @@
 # Members:
 第20組
 
+指導老師： 朱彥銘 教授
+
 0524020<a href="https://github.com/0524020"> 洪湘嬅<a>
 
 Email：0524020@nkust.edu.tw
