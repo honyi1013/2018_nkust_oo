@@ -1,4 +1,4 @@
-# 個人資訊
+# 個人資訊 
 0524046 鄭鴻翊
 # Class:
 2018-nkust-oo<br>  
@@ -6,6 +6,7 @@
 # Project:
 人工智慧面試系統<br>  Artificial Intelligence Interview System
 # Members:
+第20組 <br>
 0524020 洪湘嬅 
 
 0524046 鄭鴻翊 
