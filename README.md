@@ -36,7 +36,7 @@ Email：0524050@nkust.edu.tw
 
 ### 系統架構圖
 <img src="doc/系統架構圖.png" width="550">
-
+<img src="doc/系統語言.png" width="550">
 # 利害關係人
  關係人       | 需求
 --------------|:---------------
