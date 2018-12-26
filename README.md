@@ -32,8 +32,9 @@ Email：0524050@nkust.edu.tw
 
 # 專題目標
 ### 系統簡介
+<img src="doc/DM.png" width="550">
 ### 系統架構圖
-
+<img src="doc/系統架構圖.png" width="550">
 # 利害關係人
  關係人       | 需求
 --------------|:---------------
@@ -51,21 +52,31 @@ Email：0524050@nkust.edu.tw
 # 使用案例圖
 
 ### 使用案例圖與參與者
-<img src="doc/系統案例與參與者圖2.png" width="550">
+<img src="doc/UC.png" width="550">
 
 # 使用案例說明
 
 ### 觀看影片並評分使用案例說明
 
 # 系統活動圖
-
+<img src="doc/系統活動圖1.png" width="550">
+<img src="doc/系統活動圖2.png" width="550">
+<img src="doc/系統活動圖3.png" width="550">
 # 類別圖
+<img src="doc/類別圖.png" width="550">
 # 系統循序圖
+<img src="doc/系統循序圖.png" width="550">
 # 循序圖
 ### 公司註冊
+<img src="doc/公司註冊.png" width="550">
 ### 建立面試
+<img src="doc/建立面試.png" width="550">
 ### 求職者建立個人資料
+<img src="doc/求職者建立個人資料.png" width="550">
 ### 進行面試流程
+<img src="doc/面試流程.png" width="550">
 ### 人工智慧分析
+<img src="doc/人工智慧分析.png" width="550">
 ### 觀看影片及評分
+<img src="doc/觀看影片及評分.png" width="550">
 # 測試計劃
