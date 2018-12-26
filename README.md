@@ -60,8 +60,38 @@ Email：0524050@nkust.edu.tw
 
 # 使用案例說明
 
-### 觀看影片並評分使用案例說明
+### 公司註冊
 
+<img src="doc/UC公司註冊.png" width="550">
+
+
+### 建立面試
+
+<img src="doc/UC建立面試.png" width="550">
+
+### 面試通知
+
+<img src="doc/UC面試通知.png" width="550">
+
+### 建立個人資料
+
+<img src="doc/UC建立個人資料.png" width="550">
+
+### 進行面試流程
+
+<img src="doc/UC進行面試流程.png" width="550">
+
+### 人工智慧分析
+
+<img src="doc/UC人工智慧分析.png" width="550">
+
+### 觀看影片以及評分
+
+<img src="doc/UC觀看影片以及評分.png" width="550">
+
+### 結果通知
+
+<img src="doc/UC結果通知.png" width="550">
 
 # 系統活動圖
 <img src="doc/系統活動圖1.png" width="550">
@@ -69,9 +99,11 @@ Email：0524050@nkust.edu.tw
 <img src="doc/系統活動圖3.png" width="550">
 
 # 類別圖
+
 <img src="doc/類別圖.png" width="550">
 
 # 系統循序圖
+
 <img src="doc/系統循序圖.png" width="550">
 
 # 循序圖
@@ -99,4 +131,6 @@ Email：0524050@nkust.edu.tw
 <img src="doc/進行面試及評分.png" width="550">
 
 # 測試計劃
+
+<img src="doc/測試計劃.png" width="550">
 
