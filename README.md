@@ -93,7 +93,7 @@ Email：0524050@nkust.edu.tw
 
 ### 觀看影片及評分
 
-<img src="doc/觀看影片及評分.png" width="550">
+<img src="doc/進行面試及評分.png" width="550">
 
 # 測試計劃
 
